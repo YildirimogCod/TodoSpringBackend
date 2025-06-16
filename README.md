@@ -16,9 +16,9 @@ Spring Boot ile geliştirilmiş RESTful TODO yönetim API'si. Bu proje, Spring B
 
 ## 📋 Teknolojiler
 
-- **Java 11**
-- **Spring Boot 2.7.12**
-- **Spring Web MVC**
+- **Java 21**
+- **Spring Boot 3.5.0**
+- **Spring Web
 - **Bean Validation**
 - **Maven**
 
